@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <SonarQubeHost>http://your-sonarqube-server</SonarQubeHost>
+    <SonarQubeHost>http://localhost:9000</SonarQubeHost>
     <SonarQubeProjectKey>sqp_b6019eac5c3eacea9dfe3e5dde51dd1b25890d6b</SonarQubeProjectKey>
     <SonarQubeProjectName>sonar</SonarQubeProjectName>
     <SonarQubeProjectVersion>1.0</SonarQubeProjectVersion>
